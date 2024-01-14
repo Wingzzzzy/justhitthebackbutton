@@ -3,4 +3,4 @@ Just a modified version of [dontasktoask.com](https://dontasktoask.com/) about i
 
 ## CREDITS
  * [Don't ask to ask, Just ask Github](https://github.com/maunium/dontasktoask.com) for their code and idea.
- * [glitterkins](https://bardofhope1.carrd.co/) for being the Writer.
+ * [glitterkins](https://bardofhope1.carrd.co/) for the original idea.
